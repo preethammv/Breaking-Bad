@@ -20,9 +20,6 @@ const CharacterItem = ({item}) => {
                         <span>Birthday :</span> {item.birthday}
                     </li>
                     <li>
-                        <span>Occupation :</span> {item.occupation}
-                    </li>
-                    <li>
                         <span>Status :</span> {item.status}
                     </li>
                 </ul>
